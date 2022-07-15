@@ -1,6 +1,7 @@
-package corejava_package;
+package Threading;
 
-public class ThreadDemo extends Thread
+
+public class Thread2 extends Thread
 {
 	public void run()
 	{
@@ -8,7 +9,7 @@ public class ThreadDemo extends Thread
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-Thread t=new ThreadDemo();
+Thread t=new Thread2();
 t.start();
 t.run();
 	}

@@ -1,8 +1,7 @@
-package corejava_package;
+package Collections;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
-
 
 class Collection {
 

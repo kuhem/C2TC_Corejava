@@ -1,5 +1,4 @@
-package corejava_package;
-
+package Threading;
 public class ThreadPriority extends Thread
 {
 	public void run()

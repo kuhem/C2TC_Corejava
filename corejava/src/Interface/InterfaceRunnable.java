@@ -1,4 +1,4 @@
-package corejava_package;
+package Interface;
 interface Runnable
 {
 	public void run(int speed);

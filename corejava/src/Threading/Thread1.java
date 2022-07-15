@@ -1,6 +1,6 @@
-package corejava_package;
+package Threading;
 
-public class Threading{
+public class Thread1{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

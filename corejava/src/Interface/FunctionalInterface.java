@@ -1,4 +1,4 @@
-package corejava_package;
+package Interface;
 interface cube
 {
 	int calculate(int a);
